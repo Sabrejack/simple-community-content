@@ -1,3 +1,4 @@
 simple-content.code-workspace
 content/install
 content/saves
+*.sim.cfg
